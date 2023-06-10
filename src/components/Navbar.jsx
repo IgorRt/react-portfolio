@@ -26,11 +26,11 @@ const Container = styled.div`
 const Links = styled.div`
   display: flex;
   align-items: center;
-  gap: 50px;
+  gap: 25px;
 `;
 
 const Logo = styled.img`
-  height: 50px;
+  height: 60px;
 `;
 
 const List = styled.ul`
